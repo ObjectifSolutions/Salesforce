@@ -10,6 +10,4 @@
     <tabs>standard-Dashboard</tabs>
     <tabs>standard-Chatter</tabs>
     <tabs>standard-File</tabs>
-    <tabs>Request__c</tabs>
-    <tabs>Listing__c</tabs>
 </CustomApplication>

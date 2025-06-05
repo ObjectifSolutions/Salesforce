@@ -6,6 +6,4 @@
     <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
     <tabs>standard-AppLauncher</tabs>
     <tabs>standard-Quote</tabs>
-    <tabs>Request__c</tabs>
-    <tabs>Listing__c</tabs>
 </CustomApplication>

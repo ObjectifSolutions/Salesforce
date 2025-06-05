@@ -180,15 +180,7 @@
     <tabs>standard-Case</tabs>
     <tabs>standard-Opportunity</tabs>
     <tabs>standard-Lead</tabs>
-    <tabs>Request__c</tabs>
-    <tabs>Listing__c</tabs>
     <workspaceConfig>
-        <mappings>
-            <tab>Listing__c</tab>
-        </mappings>
-        <mappings>
-            <tab>Request__c</tab>
-        </mappings>
         <mappings>
             <tab>standard-Account</tab>
         </mappings>

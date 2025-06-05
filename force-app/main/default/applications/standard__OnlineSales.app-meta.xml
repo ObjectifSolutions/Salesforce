@@ -12,7 +12,8 @@
     <label>Your Account</label>
     <navType>Standard</navType>
     <tabs>standard-OnlineSalesHome</tabs>
-    <tabs>Request__c</tabs>
-    <tabs>Listing__c</tabs>
+    <tabs>standard-SalesforceContract</tabs>
+    <tabs>standard-SalesforceInvoice</tabs>
+    <tabs>standard-SalesforceProductCatalog</tabs>
     <uiType>Lightning</uiType>
 </CustomApplication>

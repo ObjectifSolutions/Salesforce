@@ -9,16 +9,8 @@
     <tabs>standard-JourneyHome</tabs>
     <tabs>standard-SalesforceJourney</tabs>
     <tabs>standard-JourneyMap</tabs>
-    <tabs>Request__c</tabs>
-    <tabs>Listing__c</tabs>
     <uiType>Lightning</uiType>
     <workspaceConfig>
-        <mappings>
-            <tab>Listing__c</tab>
-        </mappings>
-        <mappings>
-            <tab>Request__c</tab>
-        </mappings>
         <mappings>
             <tab>standard-JourneyHome</tab>
         </mappings>
